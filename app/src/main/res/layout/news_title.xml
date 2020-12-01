@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:text="Lark·巡洋计划开发者大赛圆满结束"
+    android:id="@+id/news_title"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:theme="@style/news_title"
+    android:textSize="18dp"
+    android:textColor="@color/black" />

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">后月头条</string>
+    <string name="clickme">ClickMe!</string>
+    <string name="DefaultArticleTitle">文章标题玩命加载中……</string>
+    <string name="DefaultArticleAuthor">作者</string>
+    <string name="DefaultArticleDate">2048年10月24日</string>
+    <string name="DefaultArticleContent">文字内容玩命加载中……</string>
+    <string name="enlarge">放大字体</string>
+    <string name="shorten">缩小字体</string>
+    <string name="pureContent">显示纯文本</string>
+    <string name="richContent">显示纯文本/图文版</string>
+</resources>
